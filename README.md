@@ -28,3 +28,10 @@ Here's an example! Let's check out Carbi B.
  - type the name of a song and LIRI will return the artist name, song title, and the album with the date of the original release.
  
  Let's check out my favorite song!
+ 
+ ![image](https://user-images.githubusercontent.com/48395099/60635381-9801ca00-9de0-11e9-828f-7e854461d0e8.png)
+
+3. movie-this
+ - type in a movie title and LIRI will return, movie title and year, movie rating, country produced, languages, movie plot, and movie cast.
+ 
+ Let's try a classic!
