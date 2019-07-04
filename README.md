@@ -21,3 +21,10 @@ Heres an example of one of the commands:
  - type the name of an artist and LIRI will return the name of the artists next venue name, venue location (City, ST), and date of event.
  
 Here's an example! Let's check out Carbi B.
+
+![image](https://user-images.githubusercontent.com/48395099/60635159-bdda9f00-9ddf-11e9-9970-e563e92dc9b6.png)
+
+2. spotify-this
+ - type the name of a song and LIRI will return the artist name, song title, and the album with the date of the original release.
+ 
+ Let's check out my favorite song!
