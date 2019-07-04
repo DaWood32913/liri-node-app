@@ -35,3 +35,8 @@ Here's an example! Let's check out Carbi B.
  - type in a movie title and LIRI will return, movie title and year, movie rating, country produced, languages, movie plot, and movie cast.
  
  Let's try a classic!
+
+![image](https://user-images.githubusercontent.com/48395099/60635612-5faebb80-9de1-11e9-935d-9e62ce8bdf5b.png)
+
+4. do-what-it-says
+ - git it a try!
